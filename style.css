@@ -1,0 +1,22 @@
+body {
+    background-color: #b3cccc;
+}
+a{
+	color:blue;
+	text-decoration : underline;
+}
+.positionTable{
+	margin-right:35px;
+	margin-left:35px
+}
+.positionImgs{
+	margin-left:25px;
+	margin-right:25px;
+}
+#child {
+    line-height: 50px;
+}
+#positionFooter{
+	margin-right:-25px;
+	margin-left:-25px;
+}  
